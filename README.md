@@ -7,7 +7,7 @@ hi，这是com.qin.box的远程端
 https://www.lanzous.com/b683329
 
 ## 注意
-> 改软件是由Fusion App做的
-> 转载请保留版权
-> 转载请勿商用
+1. 改软件是由Fusion App做的
+2. 转载请保留版权
+3. 转载请勿商用
 
