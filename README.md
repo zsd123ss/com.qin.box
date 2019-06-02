@@ -1,4 +1,6 @@
 # 轻箱(com.qin.box)
+![图标](http://img04.sogoucdn.com/app/a/100520146/95307e383b5fca0fe34910e3475831ea)
+
 hi，这是com.qin.box的远程端
 
 ## 下载该软件的链接：
